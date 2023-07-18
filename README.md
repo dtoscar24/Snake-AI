@@ -1,5 +1,5 @@
 # Snake-AI
-In this repository you will see an agent playing the Snake game using a algorithm called Deep-Q learning.
+In this repository you will see an agent playing the Snake game using a algorithm called Deep Q-learning.
 
 The whole code was made from the tutorial of freeCodeCamp: https://www.youtube.com/watch?v=L8ypSXwyBds
 
