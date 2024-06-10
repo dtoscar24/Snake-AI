@@ -1,6 +1,6 @@
 # Snake-AI
-En este repositorio veréis un agente jugando al juego de la serpiente utilizando un algoritmo denominado Deep Q-learning, una tècnica del aprendizaje por refuerzo.
+In this repository you will see an agent playing the snake game using an algorithm called Deep Q-learning, a reinforcement learning technique.
 
-Todo el código se hizo a partir del tutorial que tiene el canal de FreeCodeCamp: [https://www.youtube.com/watch?v=l8ypsxwybds](url)
+All the code was made from the tutorial that the FreeCodeCamp channel has: [https://www.youtube.com/watch?v del8ypsxwybds](url)
 
-Nota: Necesitáis tener los cuatro ficheros de Python en la misma carpeta e importarlos a Visual Studio Code o a otro editor de código para que todo funcione bien.
+Note: You need to have the four Python files in the same folder and import them into Visual Studio Code or another code editor to make everything work properly.
